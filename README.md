@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Pelikoma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, there
+. 👀 I’m interested in developer program
+. 🌱 I’m currently learning with help from docs.github.com
+. 💞️ I’m looking to collaborate on GitHub
 
-<!---
-Pelikoma/Pelikoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+
+
