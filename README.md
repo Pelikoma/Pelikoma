@@ -1,7 +1,7 @@
-👋 Hi, there
-. 👀 I’m interested in developer program
-. 🌱 I’m currently learning with help from docs.github.com
-. 💞️ I’m looking to collaborate on GitHub
+ Hi there 👋
+  . 🔭 I'm currently working something cool!
+  . 🌱 I'm currently learning with help from docs.github.com
+  . 💬 Ask me about GitHub
 
 
 
